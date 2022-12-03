@@ -4,7 +4,7 @@
 #include <math.h>
 struct Stack
 {
-     float arr[50];
+    float arr[50];
     int tos;
 };
 
